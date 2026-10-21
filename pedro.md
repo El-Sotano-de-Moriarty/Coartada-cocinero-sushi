@@ -1,3 +1,7 @@
+---
+contenuDynamique: true
+---
+
 # Coartada de Pedro
 
 > Pedro declara: "Estuve en el Mercado Central de 16:30 a 18:00 comprando atún".
