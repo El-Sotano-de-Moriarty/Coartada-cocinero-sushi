@@ -14,7 +14,7 @@ Elige a quién quieres llamar:
 3. [Llamar al guardia de seguridad del mercado](guardia_mercado)
 4. [Llamar al barrendero de la puerta @pista_cementerio=true](barrendero)
 
-if @pista_cementerio
+if @pista_cementerio == "true"
 5. [Llamar al guardia del cementerio](cementerio)
 endif
 
